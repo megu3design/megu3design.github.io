@@ -7,6 +7,7 @@ div {
 	box-sizing:border-box;
 }
 a {
+	text-decoration:none;
 	cursor:pointer;
 }
 
@@ -25,8 +26,8 @@ a {
 	
 .box2 {
 	position:absolute;
-	top:400px;
-	left:30px;
+	top:350px;
+	left:40px;
 	color:#ffffff;
 	font-family:'Jost,sans-serif;
 	font-weight:700;
@@ -109,6 +110,7 @@ a {
 	height:600px;
 	background-color:#FFEEEE;
 	border-radius:20px;
+	overflow: hidden;
 }	
 
 .box12 {
