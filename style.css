@@ -16,7 +16,7 @@ a {
 }
 
 .box1 {
-	width:1200px;
+	width:100%;
 	height:600px;
 	background-color:#FFEEEE;
 	overflow: hidden;
@@ -24,10 +24,12 @@ a {
 }
 	
 .box2 {
-	width:1200px;
-	height:200px;
-	background-color:#b0c4de;
-	padding-left:30px;
+	position:absolute;
+	top:400px;
+	left:30px;
+	color:#ffffff;
+	font-family:'Jost,sans-serif;
+	font-weight:700;
 }	
 	
 .box3 {
