@@ -44,6 +44,11 @@ a {
 	background-color:#a9a9a9;
 	margin-right:20px;
 	border-radius:20px;
+	overflow: hidden;
+	background-image:url("work.jpg");
+	background-repeat:no-repeat;
+	background-position:center center;
+	background-size:cover;
 }
 	
 .box4 {
@@ -53,6 +58,11 @@ a {
 	background-color:#80808080;
 	margin-left:20px;
 	border-radius:20px;
+	overflow: hidden;
+	background-image:url("food.jpg");
+	background-repeat:no-repeat;
+	background-position:center center;
+	background-size:cover;
 }
 
 .box5 {
@@ -80,6 +90,11 @@ a {
 	background-color:#a9a9a9;
 	margin-right:20px;
 	border-radius:20px;
+	overflow: hidden;
+	background-image:url("challenge1.jpg");
+	background-repeat:no-repeat;
+	background-position:center center;
+	background-size:cover;
 }
 	
 .box8 {
@@ -89,6 +104,11 @@ a {
 	background-color:#80808080;
 	margin-left:20px;
 	border-radius:20px;
+	overflow: hidden;
+	background-image:url("next.jpg");
+	background-repeat:no-repeat;
+	background-position:center center;
+	background-size:cover;
 }
 
 .box9 {
